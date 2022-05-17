@@ -31,6 +31,7 @@ Statistiques en rapport avec les credits de consommation en France : https://www
 Statistiques en rapport avec les credits aux particuliers en France : https://www.banque-france.fr/statistiques/credit/credit/credits-aux-particuliers
 Enquête mensuelle auprès des banques sur la distribution du crédit en France Déc 2018 : https://www.banque-france.fr/statistiques/credit/credit/enquete-mensuelle-aupres-des-banques-sur-la-distribution-du-credit-en-france
 Chiffres concernant meilleurtaux : https://www.meilleurtaux.com/espace-presse/communiques-de-presse/silver-lake-devient-l-actionnaire-majoritaire-du-groupe-meilleurtaux.html#:~:text=Le%20chiffre%20d’affaires%20consolid%C3%A9,assurances%2C%20%C3%A9pargnes%20et%20autres%20services.
+
 ---------------------------------------------------------------------------------
 Etat de l'art technique : 
 
